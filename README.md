@@ -1,0 +1,1 @@
+The purpose of this project is to implement an automatic segmentation algorithm in MATLAB that identifies abnormal skin regions in dermoscopy images using classical image processing techniques. Class concepts such as gaussian filters, histogram equalization, global thresholding, and morphological operations, create an output image with a lesion boundary for automatic detection. 
